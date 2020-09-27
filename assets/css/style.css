@@ -1,0 +1,75 @@
+/* Navbar */
+
+.navbar {
+    background-color: #0a192f;
+}
+
+.navbar-brand {
+    color: #2EE59D;
+    text-shadow: 2px 2px 5px #2EE59D;
+}
+
+.navbar-brand:hover {
+    color: #2EE59D;
+}
+
+.nav-link {
+    color: rgb(170, 170, 170);
+}
+
+.nav-link-num {
+    color: #2EE59D;
+}
+
+.nav-link:hover {
+    color: #2EE59D;
+}
+
+.active a {
+    color: #2EE59D;
+}
+
+.btn {
+    border: 2px solid #2EE59D;
+    background-color: transparent;
+    color: #2EE59D;
+    width: 100px;
+}
+
+.btn:hover {
+    background: rgb(46, 229, 157, 0.2);
+}
+
+.fa {
+    color: rgb(170, 170, 170);
+    font-size: 2.5rem;
+    margin-left: 1.5rem;
+}
+
+.fa:hover {
+    color: #2EE59D;
+}
+
+/* Body */
+
+body {
+    background-color: #0a192f;
+    font-family: "Courier New";
+}
+
+.body-margin {
+    margin-top: 6rem;
+}
+
+h1 {
+    /* color: rgb(170, 170, 170); */
+    color: white;
+}
+
+p {
+    color: rgb(170, 170, 170);
+}
+
+.sections {
+    margin-top: 4rem;
+}
