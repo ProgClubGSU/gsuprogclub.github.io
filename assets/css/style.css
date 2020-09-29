@@ -79,3 +79,7 @@ p {
 table {
     color: rgb(170, 170, 170);
 }
+
+th {
+    color: #2EE59D;
+}
