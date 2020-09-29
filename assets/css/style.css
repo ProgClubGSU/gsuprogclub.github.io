@@ -73,3 +73,9 @@ p {
 .sections {
     margin-top: 4rem;
 }
+
+/* Members Page */
+
+table {
+    color: rgb(170, 170, 170);
+}
