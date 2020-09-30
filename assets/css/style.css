@@ -100,11 +100,11 @@ th {
     flex-direction: column;
 }
 
-.card-body {
+/* .card-body {
     display: flex; 
     flex-direction: column;
     justify-content: space-between;
-}
+} */
 
 .card-title {
     color: #2EE59D;
