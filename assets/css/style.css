@@ -33,7 +33,7 @@
     border: 2px solid #2EE59D;
     background-color: transparent;
     color: #2EE59D;
-    width: 100px;
+    min-width: 100px;
 }
 
 .btn:hover {
@@ -81,5 +81,31 @@ table {
 }
 
 th {
+    color: #2EE59D;
+}
+
+/* Resources Page */
+
+.card-deck {
+    margin-left: 0.15rem;
+    margin-top: 1.35rem;
+}
+
+.card {
+    background: #12233e;
+}
+
+.button-container {
+    display: flex;
+    flex-direction: column;
+}
+
+.card-body {
+    display: flex; 
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.card-title {
     color: #2EE59D;
 }
