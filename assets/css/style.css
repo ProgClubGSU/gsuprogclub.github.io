@@ -41,6 +41,10 @@
     background: rgb(46, 229, 157, 0.2);
 }
 
+a:hover {
+    color: #2EE59D;
+}
+
 .fa {
     color: rgb(170, 170, 170);
     font-size: 2.5rem;
