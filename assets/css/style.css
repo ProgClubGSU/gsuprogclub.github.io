@@ -80,7 +80,17 @@ table {
     color: rgb(170, 170, 170);
 }
 
-/*Resource Page*/
+th {
+    color: #2EE59D;
+}
+
+/* Resources Page */
+
+.card-deck {
+    margin-left: 0.15rem;
+    margin-top: 1.35rem;
+}
+
 .card {
     background: #12233e;
 }
@@ -91,11 +101,11 @@ table {
 }
 
 .card-body {
-    display: flex;
+    display: flex; 
     flex-direction: column;
     justify-content: space-between;
 }
 
-.card-title{
+.card-title {
     color: #2EE59D;
 }
