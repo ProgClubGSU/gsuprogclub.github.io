@@ -29,6 +29,7 @@
     color: #2EE59D;
 }
 
+/* btn class used for all buttons */
 .btn {
     border: 2px solid #2EE59D;
     background-color: transparent;
@@ -38,6 +39,10 @@
 
 .btn:hover {
     background: rgb(46, 229, 157, 0.2);
+}
+
+a:hover {
+    color: #2EE59D;
 }
 
 .fa {
@@ -87,7 +92,6 @@ th {
 /* Resources Page */
 
 .card-deck {
-    margin-left: 0.15rem;
     margin-top: 1.35rem;
 }
 
@@ -98,12 +102,6 @@ th {
 .button-container {
     display: flex;
     flex-direction: column;
-}
-
-.card-body {
-    display: flex; 
-    flex-direction: column;
-    justify-content: space-between;
 }
 
 .card-title {
