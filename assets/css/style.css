@@ -133,7 +133,7 @@ th {
 }
 
 .event .event-left {
-    background: #222;
+    background: rgba(4, 247, 36, 0.568);
     min-width: 82px;
     display: flex;
     align-items: center;
