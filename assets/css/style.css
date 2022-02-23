@@ -184,6 +184,16 @@ th {
     color: #cccccc
 }
 
+.events-hyperlink {
+    color:white; 
+    text-decoration: none;
+}
+
+.events-hyperlink:hover {
+    color: white;
+    text-decoration: none;
+}
+
 @media(max-width: 550px) {
     .event {
         flex-direction: column;
